@@ -1,1 +1,8 @@
 /*  your css code here. If applicable */
+/* Styling for paragraphs with the class 'selector' */
+.selector {
+    color: #00f; /* Font color */
+    background-color: #eee; /* Background color */
+    font-family: Arial; /* Font family */
+    font-size: 20px; /* Font size */
+}
